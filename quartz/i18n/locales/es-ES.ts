@@ -36,7 +36,7 @@ export default {
       createdWith: "Creado con",
     },
     graph: {
-      title: "Vista Gráfica",
+      title: "¿Qué Puedes Encontrar en Esta Carpeta?",
     },
     recentNotes: {
       title: "Notas Recientes",
@@ -47,14 +47,14 @@ export default {
       linkToOriginal: "Enlace al original",
     },
     search: {
-      title: "Buscar",
+      title: "Busca una Nota",
       searchBarPlaceholder: "Busca algo",
     },
     tableOfContents: {
-      title: "Tabla de Contenidos",
+      title: "Tabla de Contenido",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Se lee en ${minutes} min`,
+      readingTime: ({ minutes }) => `Lo puedes leer en ${minutes} min`,
     },
   },
   pages: {
