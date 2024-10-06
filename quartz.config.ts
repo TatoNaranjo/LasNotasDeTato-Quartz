@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "es-ES",
     baseUrl: "https://lasnotasdetato.netlify.app/",
-    ignorePatterns: ["private", "templates", ".obsidian","license","PDFs\ y\ Documentos/","LICENSE.md","README.md"],
+    ignorePatterns: ["private", "templates", ".obsidian","license","PDFs\ y\ Documentos/","LICENSE.md","README.md","Hobbies"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
