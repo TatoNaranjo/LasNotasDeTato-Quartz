@@ -1,3 +1,7 @@
+---
+date: 2024-02-05
+---
+
 Conjunto de leyes que velan por el emprendimiento. Primera de las [[Lecturas]] en la materia de Emprendimiento e Innovación I
 
 **Por:** *Santiago Naranjo Herrera*
