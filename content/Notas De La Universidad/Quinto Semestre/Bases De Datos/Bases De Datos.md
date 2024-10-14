@@ -8,5 +8,6 @@ tags:
   - DesarrolloDeSoftware
 date: 2024-02-05
 ---
-```folder-index-content
-```
+## Índice
+- [[Fundamentos de Bases de Datos]]
+- [[Buenas Prácticas en Bases de Datos]]
